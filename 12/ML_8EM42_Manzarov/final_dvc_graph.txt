@@ -1,0 +1,6 @@
+data: df_final_for_lr.csv
+model: LinearRegression.pkl
+model: DecisionTree.pkl
+model: CatBoost.pkl
+model: XGBoost.pkl
+model: MLP.pkl
